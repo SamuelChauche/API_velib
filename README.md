@@ -8,7 +8,7 @@ Une application web simple qui affiche les stations Vélib' à Paris en temps r�
 
 - 📍 Carte interactive avec **Leaflet** montrant les stations Vélib'.
 - 🔄 Données mises à jour toutes les 60 secondes.
-- 🌤️ Affichage de la météo en temps réel pour Paris (température, vent, icône).
+- 🌤️ Affichage de la météo en temps réel pour Paris (température, vent, icône) à intervalle de 60 minutes sur 8 heures.
 - ✅ Interface simple et responsive.
 
 ---
